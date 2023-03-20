@@ -21,6 +21,7 @@ body {
   background-color: #f3f3f3;
   height: 100vh;
   padding: 2rem;
+  background: linear-gradient(to left bottom, lightblue, lightpink, lightblue);
 }
 
 nav {
